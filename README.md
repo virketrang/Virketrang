@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Virketrang a small software development company based in Denmark
+- 👀 We are interested in creating stunning websites and apps taht provide value for our beloved customers
+- 🌱 We use NextJS, React, Flutter, Firebase, MongoDB, Express, NodeJS and much much more to make this happen
+- 💞️ We are currently working on a design system for creating stunning, fast and maintainable webpages with NextJS and React
+- 📫 Contact us by mail sigfred@virketrang.com or by phone (+45) 30 28 82 55
